@@ -2,7 +2,7 @@
 The "Big Ideas" Final Project! Created by Sophie Allen and Sophia Edington
 
 
-# Team Name: The Sophi's (name in progress)
+# Team Name: The Sophie's (name in progress)
 Sophie Allen: SKA76@pitt.edu
 
 Sophia Edington: sophia.l.edington@gmail.com
