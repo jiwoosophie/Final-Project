@@ -5,7 +5,7 @@ The "Big Ideas" Final Project! Created by Sophie Allen and Sophia Edington
 # Team Name: The Sophi's (name in progress)
 Sophie Allen: SKA76@pitt.edu
 
-Sophia Edington: (insert_email)@pitt.edu
+Sophia Edington: sophia.l.edington@gmail.com
 
 # Data Set Descriptions and Links
 - City Courts and Rinks Data Set Link: https://data.wprdc.org/dataset/city-of-pittsburgh-courts/resource/a5b71bfa-840c-4c86-8f43-07a9ae854227
