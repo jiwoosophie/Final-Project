@@ -2,7 +2,7 @@
 The "Big Ideas" Final Project! Created by Sophie Allen and Sophia Edington
 
 
-# Team Name: Sophie^2
+# Team Name: Sophie²
 Sophie Allen: SKA76@pitt.edu (personal used for GitHub repo: jiwoo.sophie@gmail.com)
 
 Sophia Edington: sophia.l.edington@gmail.com
