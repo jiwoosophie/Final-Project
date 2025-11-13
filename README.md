@@ -3,9 +3,9 @@ The "Big Ideas" Final Project! Created by Sophie Allen and Sophia Edington
 
 
 # Team Name: Sophie²
-Sophie Allen: SKA76@pitt.edu (personal used for GitHub repo: jiwoo.sophie@gmail.com)
+Sophie Allen: SKA76@pitt.edu (personal used for GitHub repo: jiwoo.sophie@gmail.com), worked on Trees Data Set and Presentation Notebook(s)
 
-Sophia Edington: SOE63@pitt.edu (personal used for GitHub repo: sophia.l.edington@gmail.com)
+Sophia Edington: SOE63@pitt.edu (personal used for GitHub repo: sophia.l.edington@gmail.com), worked on Courts/Rinks Data Set and Arrests Data Set (and merged all three)
 
 # Data Set Links
 - City Courts and Rinks Data Set Link: https://data.wprdc.org/dataset/city-of-pittsburgh-courts/resource/a5b71bfa-840c-4c86-8f43-07a9ae854227
