@@ -2,7 +2,7 @@
 The "Big Ideas" Final Project! Created by Sophie Allen and Sophia Edington
 
 
-# Team Name: Sophie²
+# Team Name: Sophie² (Group 11)
 Sophie Allen: SKA76@pitt.edu (personal used for GitHub repo: jiwoo.sophie@gmail.com), Trees data set
 
 Sophia Edington: SOE63@pitt.edu (personal used for GitHub repo: sophia.l.edington@gmail.com), Arrests and Sports data sets
