@@ -11,3 +11,6 @@ Sophia Edington: SOE63@pitt.edu (personal used for GitHub repo: sophia.l.edingto
 - City Courts and Rinks Data Set Link: https://data.wprdc.org/dataset/city-of-pittsburgh-courts/resource/a5b71bfa-840c-4c86-8f43-07a9ae854227
 - City of Pittsburgh Trees Data Set Link: https://data.wprdc.org/dataset/city-trees/resource/1515a93c-73e3-4425-9b35-1cd11b2196da
 - Pittsburgh Police Arrests (UPDATED 2024-2025) Data Set Link: https://data.wprdc.org/dataset/pbp_arrest_data_2024_2025/resource/e419c20c-8df4-4729-830c-e49427a656e0
+
+# Mini-Description
+For this project, we used three data sets from the WPRDC to determine what the best neighborhood in Allegheny County was using the overall metric "Safe Entertainment"! We used a data set for the surrounding trees in various neighborhoods, for courts/rinks in various neighborhoods, and the 2024-25 Arrests information within the area to determine our metric--leading to our conclusion: the best neighborhood is Highland Park!
